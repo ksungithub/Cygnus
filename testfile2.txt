@@ -1,0 +1,6 @@
+foo:1 
+bar:34
+apple:56
+orange:32
+cat:34
+dog:39
